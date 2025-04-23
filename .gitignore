@@ -1,0 +1,5 @@
+app.log
+secret.json
+
+# All log files will ignore
+*.log
